@@ -99,9 +99,9 @@ app.service('studentService', ['$q', function ($q) {
         "isChosenProject": 0,
         "name": "Olena Andriushchenko",
         "codeSourceUrl": "https://github.com/andriushchenko/cakes",
-        "websiteUrl": " http://andriushchenko.github.io/cakes",
+        "websiteUrl": "http://andriushchenko.github.io/cakes",
         "photo": "images/students/andriushchenko.jpg",
-        "cvUrl": ""
+        "cvUrl": "https://drive.google.com/open?id=0ByibR0ciqDIMR2tjOUR0Tml5RE0"
     }, {
         "isChosenProject": 0,
         "name": "Mariia Strotsiuk",
