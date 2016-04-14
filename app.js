@@ -126,8 +126,8 @@ app.service('studentService', ['$q', function ($q) {
     }, {
         "isChosenProject": 0,
         "name": "Shchadylo Taras",
-        "codeSourceUrl": "https://github.com/Tararas",
-        "websiteUrl": "http://tararas.github.io/Taras_project",
+        "codeSourceUrl": "https://github.com/Tararas/aboute_me/blob/gh-pages/",
+        "websiteUrl": "http://tararas.github.io/aboute_me/",
         "photo": "images/students/shchadylo.jpg",
         "cvUrl": "https://drive.google.com/open?id=0B63DEi8qgo9nRVkxVDJPNDl4ZEE"
     }, {
@@ -221,13 +221,13 @@ app.service('studentService', ['$q', function ($q) {
         "websiteUrl": "http://justynabil.github.io/myfirstwebsite/",
         "photo": "images/students/bilyach.jpg",
         "cvUrl": ""
-    // }, {
-    //     "isChosenProject": 0,
-    //     "name": "",
-    //     "codeSourceUrl": "",
-    //     "websiteUrl": "",
-    //     "photo": "images/students/",
-    //     "cvUrl": ""
+    }, {
+        "isChosenProject": 0,
+        "name": "Volodymyr Osychka",
+        "codeSourceUrl": "https://github.com/vovikjohn/resume.git",
+        "websiteUrl": "http://vovikjohn.github.io/resume/workspace/",
+        "photo": "images/students/osychka.jpg",
+        "cvUrl": "https://drive.google.com/file/d/0B_RdYMK7ONr6ZGJrT0lqR1BXeW8/view?usp=sharing"
     // }, {
     //     "isChosenProject": 0,
     //     "name": "",
